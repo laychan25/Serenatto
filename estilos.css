@@ -75,3 +75,32 @@ input[type="checkbox"]:focus {
 
   }
 }
+
+@media  (min-width:320px) and (max-width:450px) {
+  
+  .sectionProdutos{
+    max-width: 100vh;
+    padding-left: 60px;
+   
+  
+   
+  
+  }
+}
+
+@media  (min-width:453px) and (max-width:767px){
+
+ .sectionProdutos{
+    max-width: 100vh;
+    padding-left: 100px;
+   
+  
+   
+  
+  }
+
+
+
+}
+
+
